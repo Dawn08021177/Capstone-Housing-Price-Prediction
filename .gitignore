@@ -1,2 +1,7 @@
+*.ipynb_checkpoints/
+.git_backup/
+*.csv
+house_data.ipynb
+catboost_info/
 HouseTS.csv
 .ipynb_checkpoints/
